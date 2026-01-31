@@ -1,0 +1,7 @@
+{
+  "name": "ProGrade Certification Platform",
+  "description": "A high-end hardware diagnostic and certification platform for the used PC market, featuring tamper-proof digital certificates and automated local scanning logic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
